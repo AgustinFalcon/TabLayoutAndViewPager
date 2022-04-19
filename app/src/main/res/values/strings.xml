@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewPagerAndTabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="tab_array">
+        <item>Details</item>
+        <item>Home</item>
+        <item>Settings</item>
+    </string-array>
+
+</resources>
